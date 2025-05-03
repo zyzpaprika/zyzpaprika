@@ -5,6 +5,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=zyzpaprika&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zyzpaprika&theme=one_dark_pro&hide_border=false)<br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zyzpaprika&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=zyzpaprika&icon=0&color=0)](https://visitcount.itsvg.in)
 
